@@ -31,11 +31,11 @@ class Song
     @@count
   end
 
-  def genre.count
+  def genres.count
 
   end
 
-  def artist.count
+  def artists.count
 
   end
 
