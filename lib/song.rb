@@ -23,7 +23,7 @@ class Song
     @@artists.uniq
   end
 
-  
+
 
   def self.count
     @@count
