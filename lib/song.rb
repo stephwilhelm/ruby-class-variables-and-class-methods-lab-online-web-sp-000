@@ -38,5 +38,5 @@ class Song
   def artist.count
 
   end
-  
+
 end
