@@ -24,7 +24,7 @@ class Song
   end
 
   def self.genre
-    @@genre
+    @@genres
   end
 
   def self.count
@@ -32,7 +32,7 @@ class Song
   end
 
   def genre.count
-    
+
   end
 
   def artist.count
